@@ -1,0 +1,16 @@
+﻿Pair,Gene A,Gene B,Olink |cos|,SomaScan |cos|,SomaScan variants,Olink call,SomaScan call,Agree
+AMY2B/AMY2A,AMY2B,AMY2A,0.9970,0.9594,2962,collinear,separable,no
+BOLA1/SV2A,BOLA1,SV2A,0.9939,0.6370,2246,collinear,separable,no
+CD209/CLEC4M,CD209,CLEC4M,0.9444,0.3844,1125,separable,separable,yes
+REG1B/REG1A,REG1B,REG1A,0.9288,0.9928,1354,separable,collinear,no
+TFF3/TFF2,TFF3,TFF2,0.7744,0.2105,233,separable,separable,yes
+PCOLCE/EPO,PCOLCE,EPO,0.3306,0.7322,646,separable,separable,yes
+SERPINA11/SERPINA9,SERPINA11,SERPINA9,0.2757,0.6673,1051,separable,separable,yes
+KLKB1/F11,KLKB1,F11,0.2472,0.2611,2703,separable,separable,yes
+APOE/APOC1,APOE,APOC1,0.2224,0.1137,1216,separable,separable,yes
+SIGLEC9/SIGLEC7,SIGLEC9,SIGLEC7,0.1846,0.4723,2348,separable,separable,yes
+FETUB/HRG,FETUB,HRG,0.1601,0.1961,3212,separable,separable,yes
+FCRL6/SLAMF8,FCRL6,SLAMF8,0.1563,0.0966,206,separable,separable,yes
+TLR3/KLKB1,TLR3,KLKB1,0.0910,0.0578,3965,separable,separable,yes
+TLR3/F11,TLR3,F11,0.0409,0.1303,3600,separable,separable,yes
+RNASE6/RNASE1,RNASE6,RNASE1,0.0392,0.1006,2546,separable,separable,yes

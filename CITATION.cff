@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: cisdiag
+abstract: >-
+  Analysis code for "Credible sets misjudge instrument collinearity in
+  cis-Mendelian randomization". Reproduces every number in the manuscript from
+  the deposited derived tables.
+authors:
+  - family-names: Zhao
+    given-names: Yunchun
+  - family-names: Zhuge
+    given-names: Zhengbing
+    orcid: "https://orcid.org/0000-0002-6002-6670"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-26"

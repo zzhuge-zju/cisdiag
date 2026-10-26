@@ -1,0 +1,12 @@
+﻿Metric,Value
+Neighbouring gene pairs within 500 kb,1840
+Observed pairs sharing >=2 cis variants,44
+Permutations,2000
+Null mean,1.044
+Null SD,1.008
+Null median,1
+Null 95th percentile,3
+Null maximum,5
+Fold enrichment,42.1
+Z,42.6
+P,<0.001

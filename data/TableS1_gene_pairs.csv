@@ -1,0 +1,21 @@
+﻿Pair,Gene A,Gene B,Credible-set variants shared,Credible-set condition number,Credible-set call,Dense regional variants,Cosine similarity,Dense-data call,Concordant
+AMY2B/AMY2A,AMY2B,AMY2A,5,384,separable,3365,0.9970,collinear,no
+BOLA1/SV2A,BOLA1,SV2A,2,280582,ill-conditioned,1011,0.9939,collinear,yes
+CD209/CLEC4M,CD209,CLEC4M,3,414,separable,777,0.9444,separable,yes
+REG1B/REG1A,REG1B,REG1A,4,60,separable,1330,0.9288,separable,yes
+TPSAB1/TPSD1,TPSAB1,TPSD1,2,3661,ill-conditioned,2728,0.7985,separable,no
+TFF3/TFF2,TFF3,TFF2,2,346,separable,412,0.7744,separable,yes
+PON1/PON2,PON1,PON2,2,2821184,ill-conditioned,4464,0.5060,separable,no
+KHK/CGREF1,KHK,CGREF1,2,87,separable,3351,0.4924,separable,yes
+PCOLCE/EPO,PCOLCE,EPO,3,7,separable,859,0.3306,separable,yes
+SERPINA11/SERPINA9,SERPINA11,SERPINA9,2,1004,ill-conditioned,2716,0.2757,separable,no
+KLKB1/F11,KLKB1,F11,2,222,separable,1402,0.2472,separable,yes
+APOE/APOC1,APOE,APOC1,2,2629,ill-conditioned,2267,0.2224,separable,no
+SIGLEC9/SIGLEC7,SIGLEC9,SIGLEC7,2,481,separable,624,0.1846,separable,yes
+GPR15LG/CDHR1,GPR15LG,CDHR1,2,171,separable,2498,0.1846,separable,yes
+FETUB/HRG,FETUB,HRG,2,747,separable,1436,0.1601,separable,yes
+FCRL6/SLAMF8,FCRL6,SLAMF8,2,6,separable,1368,0.1563,separable,yes
+TLR3/KLKB1,TLR3,KLKB1,2,530293,ill-conditioned,2627,0.0910,separable,no
+ADGRE5/ADGRE2,ADGRE5,ADGRE2,2,2,separable,750,0.0524,separable,yes
+TLR3/F11,TLR3,F11,3,287,separable,2104,0.0409,separable,yes
+RNASE6/RNASE1,RNASE6,RNASE1,2,5,separable,1391,0.0392,separable,yes
